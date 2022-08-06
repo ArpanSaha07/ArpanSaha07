@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @ArpanSaha07
+- 🎓 I’m a student at McGill University.
 - 👀 I’m interested in programming and web development.
 - 🌱 I’m currently learning front-end web development.
 - 💞️ I’m looking to collaborate on python or website projects.
