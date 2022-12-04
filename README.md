@@ -2,7 +2,7 @@
 - 🎓 I’m a student at McGill University.
 - 👀 I’m interested in machine learning and web development.
 - 🌱 I’m currently learning ML and web development.
-- 💞️ I’m looking to collaborate on python or website projects.
+- 💞️ I’m looking to collaborate on machine learning or website projects.
 - 📫 You can reach out to me through my email: sahaarpan550@gmail.com
 
 <!---
