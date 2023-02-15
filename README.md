@@ -20,7 +20,7 @@
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB"/>         <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E"/>           <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white"/> 
 
 
-<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&?style=plastic&logo=mongodb&logoColor=white"/>             <img alt="PostgreSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white"/>
+<img alt="MySQL" src ="https://img.shields.io/badge/MySQL-green?style=plastic&logo=mysql&logoColor=white"/>             <img alt="PostgreSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white"/>
 
 
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"/>                <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&?style=plastic&logo=github%20actions&logoColor=white"/>             <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&?style=plastic&logo=docker&logoColor=white"/>
