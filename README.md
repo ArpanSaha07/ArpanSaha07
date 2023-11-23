@@ -11,6 +11,7 @@
 - 🌱 I’m currently learning ML and web development.
 - 💞️ I’m looking to collaborate on machine learning or website projects.
 - 📫 You can reach out to me through my email: sahaarpan550@gmail.com
+- Connect with me on <a href="https://linkedin.com/in/arpan-saha7/">LinkedIn</a>
 
 - <img width="20" align="center" alt="Devpost Logo" src="https://pbs.twimg.com/profile_images/625987202909085696/KKYbLP8y_400x400.jpg"> Check out my <a href="https://devpost.com/sahaarpan550">Devpost<a/> for hackathon submissions
 
