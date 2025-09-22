@@ -6,12 +6,13 @@
 
 ### About Me
 
-- 🎓 I’m a student at McGill University.
-- 👀 I’m interested in machine learning and web development.
-- 🌱 I’m currently learning ML and web development.
-- 💞️ I’m looking to collaborate on machine learning or website projects.
+- 🎓 I graduated in Computer Science and Statistics from McGill University.
+- 👀 I’m interested in machine learning and full-stack development.
+- 🌱 I’m currently learning ML and full-stack app development.
+- 💞️ I’m looking to collaborate on open-source projects.
 - 📫 You can reach out to me through my email: sahaarpan550@gmail.com
 - Connect with me on <a href="https://linkedin.com/in/arpan-saha7/">LinkedIn</a>
+- Check out my website: <a href="https://www.arpan-saha.com/">arpan-saha.com</a>
 
 - <img width="20" align="center" alt="Devpost Logo" src="https://pbs.twimg.com/profile_images/625987202909085696/KKYbLP8y_400x400.jpg"> Check out my <a href="https://devpost.com/sahaarpan550">Devpost<a/> for hackathon submissions
 
@@ -27,7 +28,7 @@
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"/>                <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&?style=plastic&logo=github%20actions&logoColor=white"/>             <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&?style=plastic&logo=docker&logoColor=white"/>
 
 
-<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg??style=plastic&logo=java&logoColor=white"/>               <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white"/>                 <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?style=plastic&logo=c&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/Python-lightgrey??style=plastic&logo=python&logoColor=white"/> 
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg??style=plastic&logo=java&logoColor=white"/> <img alt="Java" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white" />              <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white"/>                 <img alt="Python" src="https://img.shields.io/badge/Python-lightgrey??style=plastic&logo=python&logoColor=white"/> 
   
 
 
