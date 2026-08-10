@@ -8,8 +8,6 @@
 
 - 🎓 I graduated in Computer Science and Statistics from McGill University.
 - 👀 I’m interested in machine learning and full-stack development.
-- 🌱 I’m currently learning ML and full-stack app development.
-- 💞️ I’m looking to collaborate on open-source projects.
 - 📫 You can reach out to me through my email: sahaarpan550@gmail.com
 - Connect with me on <a href="https://linkedin.com/in/arpan-saha7/">LinkedIn</a>
 - Check out my website: <a href="https://www.arpan-saha.com/">arpan-saha.com</a>
