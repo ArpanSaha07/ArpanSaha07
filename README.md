@@ -15,6 +15,13 @@
 - <img width="20" align="center" alt="Devpost Logo" src="https://pbs.twimg.com/profile_images/625987202909085696/KKYbLP8y_400x400.jpg"> Check out my <a href="https://devpost.com/sahaarpan550">Devpost<a/> for hackathon submissions
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArpanSaha07/ArpanSaha07/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArpanSaha07/ArpanSaha07/output/github-snake.svg" />
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/ArpanSaha07/ArpanSaha07/output/github-snake.svg" />
+</picture>
+
+
 
 ### Technologies 👨‍💻
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB"/>         <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E"/>           <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white"/> 
